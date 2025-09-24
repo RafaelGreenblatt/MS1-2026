@@ -5,13 +5,11 @@ on:
     branches: [main,master]
   workflow_dispatch:
   
-env: 
-  REMOTE_HOST: ${{ vars.REMOTE_HOST }}
-  REMOTE_USER: ${{ vars.REMOTE_USER }}
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment : TV Website
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -34,6 +32,8 @@ jobs:
         with:
           SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
           ARGS: "-rlgoDzvc -i"
-          SOURCE: ".vitepress/dist/"   
+          SOURCE: ".vitepress/dist/"
+          REMOTE_HOST: ${{ env.REMOTE_HOST }}
+          REMOTE_USER: ${{ env.REMOTE_USER }}
           TARGET: ${{ vars.REMOTE_TARGET }}
           EXCLUDE: ""
