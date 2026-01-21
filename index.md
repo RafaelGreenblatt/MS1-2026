@@ -19,5 +19,5 @@ Il programma minima del corso corrisponde a capitoli 1-4 (introduzione, modello 
 Userò [il canale Teams del corso][teams] per aggiornamenti durante il corso. 
 Sono raggiungibile anche tramite [mail](mailto:greenblatt@mat.uniroma2.it).
 
-[teams]: 
+[teams]:https://teams.microsoft.com/l/team/19%3AId_52ILQiYvEACDrAqhAS12jp_Lw2-aU7-4YXmFDP4I1%40thread.tacv2/conversations?groupId=8a04b386-833b-4597-ba71-5287bb231ef8&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e 
 
