@@ -6,11 +6,15 @@ import { data } from './data/csv.data.ts'
 const weeks = data.diary.map( (el) => el.week ).filter((value, index, array) => array.indexOf(value) === index);
 </script>
 
-# Diario delle Lezioni
+# Calendario/diario delle Lezioni
 
-In preparazione
+Questo è un calendario provvisorio delle lezioni del corso, che sarà aggiornato con programmi più accurati e finalmente con le lezioni realmente erogate.
 
-<!--
+La dicitura FV indica le sezioni relativi del testo di riferenza ([Friedli e Velenik])(https://www.unige.ch/math/folks/velenik/smbook/).
+
+IMPORTANTE: anche l'orario del corso è da confermare, e probabilmente sarà cambiato entro l'inizio delle lezioni.
+
+
 
 <div v-if="data.diary">
 <div v-for="week in weeks">
@@ -29,4 +33,4 @@ In preparazione
 </div>
 </div>
 
--->
+
