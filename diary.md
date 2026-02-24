@@ -10,7 +10,7 @@ const weeks = data.diary.map( (el) => el.week ).filter((value, index, array) => 
 
 Questo è un calendario provvisorio delle lezioni del corso, che sarà aggiornato con programmi più accurati e finalmente con le lezioni realmente erogate.
 
-La dicitura FV indica le sezioni relativi del testo di riferenza ([Friedli e Velenik])(https://www.unige.ch/math/folks/velenik/smbook/).
+La dicitura FV indica le sezioni relativi del testo di riferenza ([Friedli e Velenik](https://www.unige.ch/math/folks/velenik/smbook/)).
 
 IMPORTANTE: anche l'orario del corso è da confermare, e probabilmente sarà cambiato entro l'inizio delle lezioni.
 

@@ -5,10 +5,10 @@ date,time,room,topic,week,count
 (FV sezione 1.1)",1,3
 09/03/26,9:00-11:00,aula da definire,Ensemble termodinamici (FV sezione 1.2),2,4
 10/03/26,14:00-16:00,aula da definire,Panoramica del limite termodinamico (FV sezione 1.3),2,5
-11/03/26,14:00-16:00,aula da definire,Modello Curie-Weiss (FV sezione 2.1),2,6
-16/03/26,9:00-11:00,aula da definire,Modello CW – potenziale termodinamica (2.2),3,7
-17/03/26,14:00-16:00,aula da definire,Modello CW – campo magnetico e esponenti critici (2.3),3,8
-18/03/26,14:00-16:00,aula da definire,Proprietà di funzioni convessi e trasformata di Legendre (B.2),3,9
+11/03/26,14:00-16:00,aula da definire,Proprietà di funzioni convessi e trasformata di Legendre (B.2),2,6
+16/03/26,9:00-11:00,aula da definire,Modello Curie-Weiss (FV sezione 2.1),3,7
+17/03/26,14:00-16:00,aula da definire,Modello CW – potenziale termodinamica (2.2),3,8
+18/03/26,14:00-16:00,aula da definire,Modello CW – campo magnetico e esponenti critici (2.3),3,9
 23/03/26,9:00-11:00,aula da definire,Modello CW – esponenti critici (FV sezione 2.5.3),4,10
 24/03/26,14:00-16:00,aula da definire,"Modello Ising: condizioni di bordo (FV sezioni 3.1, 3.2)",4,11
 25/03/26,14:00-16:00,aula da definire,Modello Ising unidimensionale (FV sezione 3.3),4,12
@@ -19,7 +19,7 @@ date,time,room,topic,week,count
 07/04/26,,,NESSUNA LEZIONE,6,15
 08/04/26,14:00-16:00,aula da definire,Modello Ising: unicità dello stato ad alta temperatura (3.7.3),6,16
 13/04/26,9:00-11:00,aula da definire,"Ising: unicità con campo magnetico (3.7.4,3.7.5)",7,17
-14/04/26,14:00-16:00,aula da definire,Misure di Gibbs: introduzione (FV 6.1-6.3),7,18
+14/04/26,14:00-16:00,aula da definire,La trasformata discreta di Fourier e la Laplaciana discreta,7,18
 15/04/26,14:00-16:00,aula da definire,Il campo gaussiano sul reticolo (FV capitolo 8),7,19
 20/04/26,9:00-11:00,aula da definire,Il campo gaussiano sul reticolo (FV capitolo 8),8,20
 21/04/26,14:00-16:00,aula da definire,"Il campo gaussiano discreto: introduzione (FV 8.1,8.2)",8,21
