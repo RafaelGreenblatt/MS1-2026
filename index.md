@@ -4,9 +4,14 @@ Docente: Prof. [Rafael Leon Greenblatt](https://www.mat.uniroma2.it/~greenblatt/
 
 ## Informazioni prattiche
 
-Il corso si svolgerà nel secondo semestre, a partire della prima settimana di Marzo, probabilmente il 3 Marzo; altri dettagli (giorno, ore, aula) sono ancora da confermare.  
+Il corso si svolgerà nel secondo semestre, a partire del 3 Marzo:
 
-Il corso è composto di 32 lezioni di 2 ore; al [diario di lezioni](diary.md) c'è un calendario previsto.
+* Lunedì ore 11-13 nell'aula 1200 salvo [indicazioni al contrario](diary.md)
+* Martedì e mercoledì ore 14-16 nell'aula 29A.
+
+Si noti che l'aula 1200 (targato anche biblioteca storica) si trova nel blocco studi, vicino al corridoio B1.
+
+Il corso è composto di 32 lezioni di 2 ore; al [diario di lezioni](diary.md) c'è un calendario provvisorio che verrà sostuito progressivamentecon le lezioni veramente erogati.
 
 ## Testo principale
 
