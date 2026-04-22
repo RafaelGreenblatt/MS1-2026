@@ -19,25 +19,25 @@ date,time,room,topic,week,count
 07/04/26,,,NESSUNA LEZIONE,6,
 08/04/26,14:00-16:00,Aula 29A,Modello di Ising: presssione e magnetizzazione nel limite termodinamico (FV sezione 3.2),6,13
 13/04/26,11:00-13:00,Aula 1200,Convessità della pressione e sue consequenze.  Pressione del modello Ising unidimensionale (FV sezione 3.3).,7,14
-14/04/26,14:00-16:00,Aula 29A,Ripasso di catene di Markov.  Correlazioni nel modello unidimensionale infinito (FV sezione 3.10.4),7,15
+14/04/26,14:00-16:00,Aula 29A,"Ripasso di catene di Markov (in particolare, convergenza a misure stazionarie).",7,15
 15/04/26,,,ANNULLATO,7,
-20/04/26,11:00-13:00,Aula 1200,"Modello Ising: stati, osservabili, e funzioni di correlazione (FV sez. 3.4,3.5,3.6)",8,16
-21/04/26,14:00-16:00,Aula 29A,Modello Ising: diagramma di fase (3.7.1),8,17
-22/04/26,14:00-16:00,Aula 29A,Modello Ising: ordine spontanea a bassa temperatura (3.7.2),8,18
-27/04/26,11:00-13:00,Aula 1200,Modello Ising: unicità dello stato ad alta temperatura (3.7.3),9,19
-28/04/26,14:00-16:00,Aula 29A,"Ising: unicità con campo magnetico (3.7.4,3.7.5)",9,20
-29/04/26,14:00-16:00,Aula 29A,La trasformata discreta di Fourier e la Laplaciana discreta,9,21
-04/05/26,11:00-13:00,Aula 1200,"Il campo gaussiano discreto: introduzione (FV 8.1,8.2)",10,22
-05/05/26,14:00-16:00,Aula 29A,"Campo Gaussiano e marcia aleatoria (FV 8.3, 8.4.1)",10,23
-06/05/26,14:00-16:00,Aula 29A,Il campo gaussiano sul reticolo (FV capitolo 8),10,24
-11/05/26,11:00-13:00,Aula 1200,"Modelli con simmetrie continue – introduzione, onde di spin",11,25
-12/05/26,14:00-16:00,Aula 29A,Modelli con simmetrie continue – teorema di Mermin e Wagner,11,26
-13/05/26,14:00-16:00,Aula 29A,Positività per riflesso – introduzione (FV 10.1-3),11,27
-18/05/26,11:00-13:00,Aula 1200,Positività per riflesso e ordine a lungo raggio (FV 10.4),12,28
-19/05/26,14:00-16:00,Aula 29A,Positività per riflesso e ordine a lungo raggio (FV 10.5),12,29
-20/05/26,14:00-16:00,Aula 29A,Altri argomenti,12,30
-25/05/26,11:00-13:00,Aula 1200,Altri argomenti,13,31
-26/05/26,14:00-16:00,Aula 29A,Altri argomenti,13,32
+20/04/26,11:00-13:00,Aula 1200,"Stati di Gibbs a volume infinito (FV sezioe 3.4), caso unidimensionale come catena di Markov (FV 3.10.4)",8,16
+21/04/26,14:00-16:00,Aula 29A,"Familie di funzioni locali, disuguglianze di correlazione.  Dimostrazione delle disuguaglianze FKG con tecniche di catene di Markov (FV 3.5,3.6, 3.10.3)",8,17
+22/04/26,14:00-16:00,Aula 29A,Modello Ising: diagramma di fase (3.7.1),8,18
+27/04/26,11:00-13:00,Aula 1200,Modello Ising: ordine spontanea a bassa temperatura (3.7.2),9,19
+28/04/26,14:00-16:00,Aula 29A,Modello Ising: unicità dello stato ad alta temperatura (3.7.3),9,20
+29/04/26,14:00-16:00,Aula 29A,"Ising: unicità con campo magnetico (3.7.4,3.7.5)",9,21
+04/05/26,11:00-13:00,Aula 1200,Markov Chain Monte Carlo,10,22
+05/05/26,14:00-16:00,Aula 29A,Simulazione del modello Ising nel punto critico,10,23
+06/05/26,14:00-16:00,Aula 29A,La trasformata discreta di Fourier e la Laplaciana discreta,10,24
+11/05/26,11:00-13:00,Aula 1200,"Il campo gaussiano discreto: introduzione (FV 8.1,8.2)",11,25
+12/05/26,14:00-16:00,Aula 29A,"Campo Gaussiano e marcia aleatoria (FV 8.3, 8.4.1)",11,26
+13/05/26,14:00-16:00,Aula 29A,Il campo gaussiano sul reticolo (FV capitolo 8),11,27
+18/05/26,11:00-13:00,Aula 1200,"Modelli con simmetrie continue – introduzione, onde di spin",12,28
+19/05/26,14:00-16:00,Aula 29A,Modelli con simmetrie continue – teorema di Mermin e Wagner,12,29
+20/05/26,14:00-16:00,Aula 29A,Positività per riflesso – introduzione (FV 10.1-3),12,30
+25/05/26,11:00-13:00,Aula 1200,Positività per riflesso e ordine a lungo raggio (FV 10.4),13,31
+26/05/26,14:00-16:00,Aula 29A,Positività per riflesso e ordine a lungo raggio (FV 10.5),13,32
 27/05/26,14:00-16:00,Aula 29A,Eventuale lezione di ricupero,13,
 01/06/26,,,NESSUNA LEZIONE,14,
 02/06/26,,,NESSUNA LEZIONE,14,
