@@ -19,6 +19,14 @@ Useremo molto il libro *Statistical Mechanics of Lattice Systems: a Concrete Mat
 
 Il programma di base del corso corrisponde a capitoli 1-4 (introduzione, modello Ising e gas reticolare), 6 (stati di Gibbs in sistemi infiniti) e 8-10 (modello di Heisenberg ed altri modelli di spin continuo).  Secondo il tempo a disposizione e le interessi dei partecipanti potrebbero essere aggiunti altri argomenti.
 
+## Dispense su argomenti supplementari
+
+* [Simulazioni Monte Carlo del modello Ising, parte 1][mc1]
+* [Simulazioni Monte Carlo del modello Ising, parte 2][mc2]
+
+[mc1]:MonteCarlo1.pdf
+[mc2]:MonteCarlo2.pdf
+
 ## Valutazione
 
 Il voto del corso sarà assegnato in base di un esame orale, basato sulla presentazione di un progetto su una tema concordata antecipatamente con il docente.
