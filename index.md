@@ -1,4 +1,4 @@
-# Meccanica Superiore 1/Meccanica Statistica (Corso di Laurea Magistrale in Matematica, a.a. 2025-6)
+# Meccanica Superiore 1/Meccanica Statistica (Corso di Laurea Magistrale in Matematica, a.a. 2025-6) 
 
 Docente: Prof. [Rafael Leon Greenblatt](https://www.mat.uniroma2.it/~greenblatt/)
 
