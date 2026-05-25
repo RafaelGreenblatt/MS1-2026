@@ -29,7 +29,12 @@ Il programma di base del corso corrisponde a capitoli 1-4 (introduzione, modello
 
 ## Valutazione
 
-Il voto del corso sarà assegnato in base di un esame orale, basato sulla presentazione di un progetto su una tema concordata antecipatamente con il docente.
+Il voto del corso sarà assegnato in base di un esame orale, basato sulla presentazione di un progetto su una tema concordata anticipatamente con il docente.
+
+I primi due appelli di esami si terranno:
+
+* Lunedì 8 giugno, ore 14, aula 20
+* Giovedì 9 luglio, ore 14, aula 11
 
 ## Communicazioni
 
