@@ -22,7 +22,7 @@ jobs:
         run: npm ci
 
       - name: Build with VitePress
-        run: npm run build
+        run: npm run docs:build
         env:
           VITEPRESS_BASE: /MS1-2026/
 
@@ -52,7 +52,7 @@ jobs:
         run: npm ci
         
       - name: Build with VitePress
-        run: npm run build
+        run: npm run docs:build
         
      # - name: Upload artifact
      #   uses: actions/upload-artifact@v4
