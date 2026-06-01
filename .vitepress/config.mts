@@ -5,8 +5,8 @@ export default defineConfig({
   title: "Meccanica Superiore 1 - 2026",
   lang: 'it-IT',
   description: "Pagina del corso Meccanica Superiore 1 (Meccanica Statistica)",
-  // Following is part of publishing to multiple platforms, this is the location for the TV website
-  base: process.env.VITEPRESS_BASE ?? '/~greenblatt/ms1_2026/',
+  // Following is part of publishing to multiple platforms, this is the location for the TV website.  Note that since the website went down I have changed it to match the github.io directory convention, so I may have to make adjustments to get it working again later
+  base: process.env.VITEPRESS_BASE ?? '/~greenblatt/MS1-2026/',
   lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
