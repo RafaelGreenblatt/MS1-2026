@@ -31,13 +31,12 @@ Il programma di base del corso corrisponde a capitoli 1-4 (introduzione, modello
 
 Il voto del corso sarà assegnato in base di un esame orale, basato sulla presentazione di un progetto su una tema concordata anticipatamente con il docente.
 
-I primi tre appelli di esami si terranno:
+I primi quattro appelli di esami si terranno:
 
 * Lunedì 8 giugno, ore 14, aula 20
 * Giovedì 9 luglio, ore 14, aula 11
-* Lunedì 24 agosto, ore 14, aula da determinare
-
-Il quarto appello programmato per le 15 settembre, ore 14 sarà spostato in un altro giorno/orario; eventuali interessati sono pregati di [contattarmi](mailto:greenblatt@mat.uniroma2.it) per informarsi e/o esprimere preferenze.
+* Lunedì 24 agosto, ore 14, aula da definire
+* Giovedì 17 settembre, ore 14, aula da definire
 
 ## Communicazioni
 
